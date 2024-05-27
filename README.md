@@ -42,8 +42,7 @@ b. Generated the test data:
 * Remove the student from one of their courses.
 
 Result:
-![image](https://github.com/AndriiChipets/SchoolConsoleApp/assets/137887124/7dee57c1-2e96-46aa-9ead-9bff88634613)
-![image](https://github.com/AndriiChipets/SchoolConsoleApp/assets/137887124/67f78f45-d0da-4957-96f3-94565b5bf970)
-![image](https://github.com/AndriiChipets/SchoolConsoleApp/assets/137887124/0c05e0eb-94e7-4aa6-bd60-b92902e4679c)
-![image](https://github.com/AndriiChipets/SchoolConsoleApp/assets/137887124/fa268ae5-5359-4cb3-a7e1-01b4ad53e6a6)
-![image](https://github.com/AndriiChipets/SchoolConsoleApp/assets/137887124/a58468ad-1c28-4133-9ab4-2af645431eff)
+![image](https://github.com/AndriiChipets/school-console-app-plain-jdbc/assets/137887124/4144ed58-f448-4f7e-b7a0-bc8ff929e43d)
+![image](https://github.com/AndriiChipets/school-console-app-plain-jdbc/assets/137887124/2a6be414-d797-46b2-858a-0c68bf76c3e5)
+![image](https://github.com/AndriiChipets/school-console-app-plain-jdbc/assets/137887124/6a23314e-9c13-4858-a501-343e67bcfe86)
+
